@@ -1,0 +1,11 @@
+test_analytical_memory_and_roundtrip (test_allocators.AllocatorTests) ... ok
+test_external_fragmentation_and_coalescing (test_allocators.AllocatorTests) ... ok
+test_noncontiguous_page_translation (test_allocators.AllocatorTests) ... ok
+test_page_boundary_failure_and_reuse (test_allocators.AllocatorTests) ... ok
+test_seeded_operations_against_byte_oracle (test_allocators.AllocatorTests) ... ok
+test_validation_preserves_state (test_allocators.AllocatorTests) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.052s
+
+OK

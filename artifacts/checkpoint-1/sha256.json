@@ -1,0 +1,14 @@
+{
+  "source_sha256": {
+    "kv_cache/__init__.py": "4768b92ab02eccf59e4b0f75d1cbfd57b120a1b61301a6ad81ab38c8d5967e81",
+    "kv_cache/allocators.py": "79c87b2767752dd214ba1fed06df4650b46f50baf91006b2a841e462a070e611",
+    "tests/test_allocators.py": "c270038350f10f5f8449b50a01ca29fff4736be3d900b3a540a0acaa90617d7c",
+    "scripts/checkpoint.py": "e02a95c11805edca1d93f64774b5913273a57f9133e2100e020dff9e27cb0472",
+    "configs/checkpoint-1.json": "08ba9f92b6c2cb9cb50f543d26ff347669c03b91d096e20f5de2878c5bcf813a"
+  },
+  "artifact_sha256": {
+    "tests.log": "76c512096f4aac612f70812af9ddb3f6431616a876b39d901020b8313d7678d0",
+    "results.json": "fa705f99ae933c62c92b2f16f60a3759701a2f66e91fc4330b5fc6a0e978e761",
+    "summary.md": "7682a085d813a8b9e84ca64983fd30ad275450b7e7efa3f066255e917c046acd"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "memory": {"capacity_tokens": 16, "bytes_per_token": 8, "block_tokens": 4},
+  "capacity": {"capacity_tokens": 32, "bytes_per_token": 16, "block_tokens": 4},
+  "holes": {"capacity_tokens": 12, "bytes_per_token": 8, "block_tokens": 2}
+}
